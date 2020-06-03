@@ -4,7 +4,7 @@ class lecturers:
         self.first = first
         self.last = last
         self.pay = pay
-        self.email = first + last + '@ankara.edu.tr'
+        self.email = first + last + '@tamaleseniorhigh'
 
     def fullname(self):
         return '{} {}'.format(self.first, self.last)

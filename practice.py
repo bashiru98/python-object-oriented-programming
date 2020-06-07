@@ -48,8 +48,8 @@ employees = [
         'gpa': '3.9'
     },
     {
-        'name': 'Brayan',
-        'country': 'usa',
+        'name': 'Bukari',
+        'country': 'America',
         'gpa': '3.6'
     },
     {
